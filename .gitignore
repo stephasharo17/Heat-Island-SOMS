@@ -1,0 +1,15 @@
+# Jupyter automatic checkpoints
+.ipynb_checkpoints/
+
+#Python cache files
+__pycache__/
+*.pyc
+
+#Large ERA5 / NetCDF files
+*.nc
+*.nc4
+*.grib
+*.grib2
+
+# Temporary files
+*.tmp
